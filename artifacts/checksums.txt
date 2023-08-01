@@ -1,0 +1,1 @@
+d64cc9a205e06a3044aee72425037818411ca2c3fa1884b916f886d43f62ab86  cosmos_writer_smartcontract.wasm

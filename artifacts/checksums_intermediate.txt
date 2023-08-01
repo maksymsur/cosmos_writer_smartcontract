@@ -1,0 +1,1 @@
+c169b37a47ad4f2cb44daf757fc97fd3f7a4a66b5e78fce3644f4203aee24bde  ./target/wasm32-unknown-unknown/release/cosmos_writer_smartcontract.wasm
